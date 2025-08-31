@@ -1,6 +1,3 @@
-**STUDENT ACADEMIC STRESS ANALYSIS PREDICTION**
-
-**1. Project overview :**
 # Student Academic Stress Analysis Prediction
 
 ## 📊 Project Overview
